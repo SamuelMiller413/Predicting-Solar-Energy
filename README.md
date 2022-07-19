@@ -1,5 +1,14 @@
 # Predicting-Solar-Energy
-This repo features an experiment I conducted using machine learning models to predict solar energy potential by region given meteorological data and location data.
+
+## Summary
+This repo features an experiment I conducted using machine learning to model solar energy potential by region given meteorological data and location data. It explores the use of Recursive Feature Extraction with Cross Validation, Random Forest Regression, Stochastic Gradient Descent, and Multi-layer Perceptron. 
+
+## Contents
+
+1. [Paper](https://github.com/SamuelMiller413/Predicting-Solar-Energy/blob/main/Predicting%20Solar%20Energy.pdf)
+2. [Data](https://github.com/SamuelMiller413/Predicting-Solar-Energy/blob/main/Pasion%20et%20al%20dataset.csv)
+3. [Notebook](https://github.com/SamuelMiller413/Predicting-Solar-Energy/blob/main/Predicting%20Solar%20Energy%20Potential.ipynb)
+
 
 
 ### Abstract
@@ -10,4 +19,6 @@ Direct Normal Irradiance (DNI) remains a primary feature for predicting the sola
 In particular, this paper demonstrates the effective use of Recursive Feature Elimination with Cross-Validation in optimizing the feature selection process. Working with data collected at 12 sites over 14 months, the best model overall, Random Forest Regressor,yielded an R-squared score of .668.
 
 
-### Data
+### Questions / Feedback
+I'd love to hear from you! 
+Email me at samuelmillerwriting@gmail.com
