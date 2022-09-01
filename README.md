@@ -5,7 +5,7 @@ This repo features an experiment I conducted using machine learning to model sol
 
 ## Contents
 
-1. [Paper](https://github.com/SamuelMiller413/Predicting-Solar-Energy/blob/main/Predicting%20Solar%20Energy.pdf)
+1. [Paper](https://github.com/SamuelMiller413/Predicting-Solar-Energy/blob/main/Predicting%20Solar%20Energy%20Potential%20with%20Machine%20Learning.pdf)
 2. [Data](https://github.com/SamuelMiller413/Predicting-Solar-Energy/blob/main/Pasion%20et%20al%20dataset.csv)
 3. [Notebook](https://github.com/SamuelMiller413/Predicting-Solar-Energy/blob/main/Predicting%20Solar%20Energy%20Potential.ipynb)
 
